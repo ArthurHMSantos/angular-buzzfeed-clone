@@ -1,55 +1,91 @@
 {
-  "title":"Você seria um heroi ou vilão ?",
-  "questions":[
+  "title": "Qual Guerreiro Z você seria? 🐉",
+  "questions": [
     {
-      "id":1,
-      "question": "Qual super poder você escolheria ?",
-      "options":[
-        {"id": 1, "name":"Raios-Lasers", "alias":"A"},
-        {"id": 2, "name":"Voar", "alias":"B"},
-        {"id": 3, "name":"Explodir coisas", "alias":"A"},
-        {"id": 4, "name":"Curar feridas", "alias":"B"},
-        {"id": 5, "name":"Soltar fogo pelas mãos", "alias":"A"}
+      "id": 1,
+      "question": "Qual habilidade você gostaria de dominar?",
+      "options": [
+        { "id": 1, "name": "Kamehameha", "alias": "Goku" },
+        { "id": 2, "name": "Final Flash", "alias": "Vegeta" },
+        { "id": 3, "name": "Masenko", "alias": "Gohan" },
+        { "id": 4, "name": "Makankosappo (Canhão Especial)", "alias": "Piccolo" }
       ]
     },
     {
-      "id":2,
-      "question": "Quem você salvaria primeiro ?",
-      "options":[
-        {"id": 1, "name":"Crianças", "alias":"A"},
-        {"id": 2, "name":"Idosos", "alias":"A"},
-        {"id": 3, "name":"Não saberia escolher", "alias":"B"}
+      "id": 2,
+      "question": "O que mais te motiva em uma batalha?",
+      "options": [
+        { "id": 1, "name": "Proteger meus amigos", "alias": "Goku" },
+        { "id": 2, "name": "Ser o mais forte", "alias": "Vegeta" },
+        { "id": 3, "name": "Superar meus próprios limites", "alias": "Gohan" },
+        { "id": 4, "name": "Defender a Terra a qualquer custo", "alias": "Piccolo" }
       ]
     },
     {
-      "id":3,
-      "question": "Qual a sua maior preocupação ao enfretar outro super ser ?",
-      "options":[
-        {"id": 1, "name":"Não destruir prédios", "alias":"B"},
-        {"id": 2, "name":"Socar a cara do inimigo", "alias":"A"},
-        {"id": 3, "name":"Não sujar meu traje", "alias":"A"},
-        {"id": 4, "name":"Não deixar ninguém se ferir", "alias":"B"}
+      "id": 3,
+      "question": "Como você treina para ficar mais forte?",
+      "options": [
+        { "id": 1, "name": "Com um mestre experiente", "alias": "Gohan" },
+        { "id": 2, "name": "Sozinho, em silêncio", "alias": "Piccolo" },
+        { "id": 3, "name": "Com rivais que me desafiem", "alias": "Vegeta" },
+        { "id": 4, "name": "De forma divertida e intensa", "alias": "Goku" }
       ]
     },
     {
-      "id":4,
-      "question": "Qual o seu maior foco ?",
-      "options":[
-        {"id": 1, "name":"Ficar rico com poderes", "alias":"A"},
-        {"id": 2, "name":"Salvar a cidade", "alias":"B"}
+      "id": 4,
+      "question": "O que você faria se perdesse uma luta?",
+      "options": [
+        { "id": 1, "name": "Treinaria ainda mais até vencer", "alias": "Goku" },
+        { "id": 2, "name": "Me envergonharia, mas não desistiria", "alias": "Vegeta" },
+        { "id": 3, "name": "Analisaria os erros e aprenderia", "alias": "Piccolo" },
+        { "id": 4, "name": "Ficaria desapontado, mas aceitaria", "alias": "Gohan" }
       ]
     },
     {
-      "id":5,
-      "question": "Qual o seu apelido de super ser ?",
-      "options":[
-        {"id": 1, "name":"O Terrivel", "alias":"A"},
-        {"id": 2, "name":"Amigo da vizinhança", "alias":"B"}
+      "id": 5,
+      "question": "Como você descreveria seu estilo de luta?",
+      "options": [
+        { "id": 1, "name": "Ofensivo e imprevisível", "alias": "Goku" },
+        { "id": 2, "name": "Poderoso e direto", "alias": "Vegeta" },
+        { "id": 3, "name": "Tático e defensivo", "alias": "Piccolo" },
+        { "id": 4, "name": "Rápido e adaptável", "alias": "Gohan" }
+      ]
+    },
+    {
+      "id": 6,
+      "question": "Qual seria seu maior objetivo de vida?",
+      "options": [
+        { "id": 1, "name": "Proteger o universo de ameaças", "alias": "Goku" },
+        { "id": 2, "name": "Superar todos os meus limites", "alias": "Vegeta" },
+        { "id": 3, "name": "Equilibrar a vida pessoal com o dever de proteger", "alias": "Gohan" },
+        { "id": 4, "name": "Treinar a próxima geração de heróis", "alias": "Piccolo" }
+      ]
+    },
+    {
+      "id": 7,
+      "question": "Como você lida com seus rivais?",
+      "options": [
+        { "id": 1, "name": "Vejo como amigos que me ajudam a crescer", "alias": "Goku" },
+        { "id": 2, "name": "Sempre tento superá-los, não importa o que aconteça", "alias": "Vegeta" },
+        { "id": 3, "name": "Respeito, mas não gosto de competir", "alias": "Gohan" },
+        { "id": 4, "name": "Observo e aprendo com eles em silêncio", "alias": "Piccolo" }
+      ]
+    },
+    {
+      "id": 8,
+      "question": "Qual dessas frases mais combina com você?",
+      "options": [
+        { "id": 1, "name": "\"Quanto mais difícil, melhor!\"", "alias": "Goku" },
+        { "id": 2, "name": "\"Eu sou o príncipe dos Saiyajins!\"", "alias": "Vegeta" },
+        { "id": 3, "name": "\"A verdadeira força vem de dentro.\"", "alias": "Gohan" },
+        { "id": 4, "name": "\"O conhecimento também é uma arma.\"", "alias": "Piccolo" }
       ]
     }
   ],
-  "results":{
-    "A": "Você muito provavelmente seria um super vilão!",
-    "B": "Você muito provavelmente seria um super Herói!"
+  "results": {
+    "Goku": "Você é como Goku! Sempre otimista, determinado e com um coração puro, você luta para proteger quem ama e nunca recusa um bom desafio.",
+    "Vegeta": "Você é como Vegeta! Orgulhoso e feroz, seu desejo de ser o melhor te motiva, e você nunca foge de uma boa batalha.",
+    "Gohan": "Você é como Gohan! Inteligente e gentil, mas com um poder incrível escondido, você luta apenas quando necessário, mas sempre dá o seu melhor.",
+    "Piccolo": "Você é como Piccolo! Sério, estratégico e leal, você é um verdadeiro mentor e um guerreiro confiável."
   }
 }
